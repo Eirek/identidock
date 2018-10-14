@@ -1,5 +1,5 @@
 # identidock
 
-Simple WebApp in docker with Jenkins.
+Simple Webapp in docker with Jenkins.
 
 
